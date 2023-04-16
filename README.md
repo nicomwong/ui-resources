@@ -2,7 +2,7 @@
 Description: Repository of UI resources (images, ...)
 
 ## Contents
-- [Image] 52 Playing Cards
+- [Images] 52 Playing Cards
 
 
 ## Credit and Licenses
