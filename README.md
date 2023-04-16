@@ -1,5 +1,5 @@
 # UI Resources
-Description: Repository of UI resources (images, ...)
+Repository of UI resources (images, ...)
 
 ## Contents
 - [Images] 52 Playing Cards
